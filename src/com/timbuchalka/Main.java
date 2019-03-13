@@ -2,18 +2,10 @@ package com.timbuchalka;
 
 import java.util.Map;
 
-/**
- * SortedCollections
- * 
- * Main.java
- * 
- * From Tim Buchalka's Complete Java Developer Course
- * Copyright (c) 2015-2016
- * Contact author at:  http://timbuchalka.com
- * 
- */
 public class Main {
     private static StockList stockList = new StockList();
+    
+    // test commit
 
     public static void main(String[] args) {
 	    StockItem temp = new StockItem("bread", 0.86, 100);
